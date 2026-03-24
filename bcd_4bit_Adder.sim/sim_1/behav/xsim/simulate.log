@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Time =                    0 | a =  5 | b =  2 | cin = 0 | bcd_out = 07
+Time =                10000 | a =  7 | b =  8 | cin = 0 | bcd_out = 15
+Time =                20000 | a =  9 | b =  9 | cin = 1 | bcd_out = 19
+$finish called at time : 40 ns : File "C:/Users/PIYUSH ANTIL/Documents/Electronics/Digital/Verilog Projects/bcd_4bit_Adder/bcd_4bit_Adder.srcs/sim_1/new/bcd_adder_tb.v" Line 47

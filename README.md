@@ -1,4 +1,4 @@
-This README is designed to be the front page of your project. It explains the "why" and "how" of your BCD adder so that anyone (including your future self) can understand the logic and run the simulation immediately.
+
 
 ---
 
